@@ -1,0 +1,401 @@
+,fas_id,name,address,postcode,easting,northing,latitude,longitude,local_authority
+10377,101637,Barosi,"151 Green Lanes, LONDON",N13 4SP,530975,191991.0,51.611515,-0.109851,Enfield
+22013,224273,CROWN HOTEL,"Crown Hotel, High Street, Garstang, Preston",PR3 1FA,349269,445285.0,53.901225,-2.773577,Wyre
+11724,119337,Three Kings Public House,"Three Kings Public House, 7 Clerkenwell Close, Islington, London",EC1R 0DY,531496,182178.0,51.523219,-0.105999,Islington
+7552,70666,White Hart,"22 St Lawrence Road, North Wingfield, Chesterfield",S42 5LH,441024,364973.0,53.180293,-1.387619,North East Derbyshire
+9926,95251,La Tasca,"16 Eldon Street, London",EC2M 7LA,532977,181651.0,51.518136,-0.084863,City of London
+31791,319790,The Black Bear,"High Street, Wool, Dorset",BH20 6BP,384628,86728.0,50.680004,-2.218944,Purbeck
+25785,261956,Headington Bowls Club,"Osler Road, Oxford, Oxfordshire",OX3 9BH,454325,207200.0,51.760848,-1.214278,Oxford
+34919,349138,Potters Green Community Centre,"Community Centre, Wigston Road, Coventry",CV2 2QR,437648,282347.0,52.437796,-1.447621,Coventry
+39873,386806,Middle Bar,"18 Fountain Street, Halifax",HX1 1LW,409186,425007.0,53.721401,-1.862272,Calderdale
+9697,93644,Southampton Arms,"139      Highgate Road, London",NW5 1LE,528610,185757.0,51.556037,-0.146268,Camden
+49030,493443,Sexton Arms,"The Sexton Arms, Llansadwrn, Llanwrda, Carmarthenshire",SA19 8HH,269588,231461.0,51.966281,-3.899659,Carmarthenshire
+23912,242466,Martello Inn,"108 Langney Rise, Eastbourne, East Sussex",BN23 7DD,563061,102285.0,50.797193,0.312434,Eastbourne
+36747,362830,Horse And Jockey Inn,"Horse And Jockey, Grindley Brook, Whitchurch, Shropshire",SY13 4QJ,352232,343150.0,52.983549,-2.712944,Shropshire
+40320,389923,Imperial Club and Brewery,"The Imperial Club, 11 Cliff Street, Mexborough, Doncaster",S64 9HU,447144,399770.0,53.492533,-1.290887,Doncaster
+248,3086,St Johns Arms,"St Johns Arms, Knotting Road, Melchbourne, Bedford",MK44 1BG,502982,266194.0,52.28424,-0.491751,Bedford
+6698,62966,Praha,"22 The Borough, Hinckley, Leicestershire",LE10 1NL,442619,293954.0,52.541781,-1.37302,Hinckley and Bosworth
+5276,51792,Peacock Inn,"26 Factory Street, Loughborough",LE11 1AL,454017,319322.0,52.768801,-1.200828,Charnwood
+21307,217366,Cheshire Cheese,"654 Knutsford Road, Warrington",WA4 1JQ,362413,387333.0,53.381499,-2.566521,Warrington
+9908,95113,Harry's Bar,"17-20 Ironmonger Lane, London",EC2V 8EP,532510,181260.0,51.514732,-0.091736,City of London
+16120,169227,Derwent Club,"St Johns Street, Keswick, Cumbria",CA12 5AP,326753,523353.0,54.600019,-3.135304,Allerdale
+32076,322428,Rose & Crown Inn,"Rose And Crown Inn, Parkfield Road, Pucklechurch, South Gloucestershire",BS16 9PS,369617,176869.0,51.489954,-2.438996,South Gloucestershire
+34129,339445,Trowbridge Rugby Football Club,"Paxcroft, Hilperton, Trowbridge, Wiltshire",BA14 6JB,388282,159269.0,51.332392,-2.169578,Wiltshire
+41471,398801,Windmill,"56 Witham, Hull",HU9 1BE,510711,429285.0,53.748188,-0.322607,"Kingston upon Hull, City of"
+42513,406913,The Marsh Inn,"70 Uppermoor, Pudsey",LS28 7EX,421344,433170.0,53.794407,-1.677469,Leeds
+28736,290462,The Warren,"Warren House Inn, Forest Road, Binfield",RG40 5SB,482122,171004.0,51.432097,-0.820061,Wokingham
+35353,352756,Rocester Football Club,"Hillsfield, Mill Street, Rocester",ST14 5JX,411019,339266.0,52.950672,-1.837446,East Staffordshire
+49653,499591,Neptune Club,"Ffordd Neifion, Tywyn, Gwynedd",LL36 0DL,258107,299933.0,52.578642,-4.095485,Gwynedd
+41961,402088,The Victoria Park Hotel,"Victoria Park, 10 Station Street, Meltham, Holmfirth",HD9 5QL,409957,410697.0,53.592757,-1.851042,Kirklees
+26971,274561,Woolston Social Club,"32 Victoria Road, Woolston, Southampton",SO19 9DX,443705,111056.0,50.897327,-1.379906,Southampton
+91,824,United Services Club,"White Horse Road, East Bergholt, COLCHESTER, Essex",CO7 6TU,608264,234312.0,51.96825,1.030381,Babergh
+31410,315932,Shaftesbury Football Club,"Coppice Street, Shaftesbury, Dorset",SP7 8PD,386613,123015.0,51.006362,-2.192173,North Dorset
+50120,503443,Le Pub,Le Pub 1 Caxton Place Newport South Wales,NP20 4BN,330827,188079.0,51.5873,-2.99983,Newport
+46843,470302,The Beach Bar,Commerce Street Lossiemouth Moray,IV31 6BW,323224,871180.0,57.723797,-3.290636,Moray
+19762,202164,Dog & Partridge @ Gisburn Forest,"Tosside, Skipton, North Yorkshire",BD23 4SQ,376862,455489.0,53.994923,-2.354422,Ribble Valley
+50497,506836,Flying Shuttle,"Llanidloes Road, Newtown, Powys",SY16 1HL,309544,290683.0,52.50651,-3.334144,Powys
+14966,159722,The Ballarat,"13 Borough Road, North Shields, Tyne And Wear",NE29 6LU,435472,568073.0,55.005955,-1.446944,North Tyneside
+40782,393586,Station Hotel,"52 Station Road, Patrington, Hull",HU12 0NE,530910,422968.0,53.686769,-0.019154,East Riding of Yorkshire
+49289,495678,Llandudno FC Club House,"Maesdu Park, Builder Street, Llandudno",LL30 1HH,278081,381515.0,53.316492,-3.831601,Conwy
+13552,148552,The Comet,"16 Tees View, HURWORTH PLACE, DARLINGTON",DL2 2DH,429061,509946.0,54.484034,-1.55296,Darlington
+9470,90885,Pawleyne Arms,"156 High Street, Penge, London",SE20 7EU,535553,170146.0,51.414128,-0.052167,Bromley
+10254,99795,Greenford Tennis Club,"Greenford Tennis Club, 76 Ravenor Park Road, Greenford",UB6 9QY,513987,182730.0,51.531981,-0.358076,Ealing
+25063,254419,Marden Cricket And Hockey,"Days Sports Pavilion, Albion Road, Marden, Kent",TN12 9ED,574736,144192.0,51.170277,0.498072,Maidstone
+48161,485673,Stirrup Stane,"Willow Grove, Craigshill, Livingston",EH54 5LU,306778,668351.0,55.899208,-3.49243,West Lothian
+23646,240544,Old Lantern Inn,"The Street, Martin, Kent",CT15 5JL,633810,147008.0,51.174481,1.343558,Dover
+50958,509952,The Mackworth Arms,"25 Gadlys Road, Gadlys, Aberdare",CF44 8AE,299779,202958.0,51.716365,-3.452113,Rhondda Cynon Taf
+37989,371185,Coreys,"Coreys, Lower Gungate, Tamworth",B79 7AT,420809,304209.0,52.635244,-1.693956,Tamworth
+15386,163017,The Tap & Spile,"1 Eastgate, Hexham, Northumberland",NE46 1BH,393640,563853.0,54.969247,-2.100878,Northumberland
+47924,481642,Lanark Thistle Bowling Club,"Castlehill Bowling Green, Castlegate, Lanark",ML11 9DZ,288131,643623.0,55.67317,-3.780334,South Lanarkshire
+3795,37433,The Plough Ph,"Sleapshyde, Smallford, St Albans, Hertfordshire",AL4 0SE,520231,206888.0,51.747798,-0.25981,St Albans
+26606,269866,Castle Hotel,"The Green, Saltwood, Kent",CT21 4AJ,615611,135719.0,51.080264,1.076872,Shepway
+36621,361800,The Victoria Suite,"Victoria Suite, 118 Windmill Lane, Smethwick",B66 3EN,402815,287683.0,52.487057,-1.959973,Sandwell
+5016,48961,Angel Inn,"Mansfield Road, Clowne, Chesterfield",S43 4JX,448865,375314.0,53.272569,-1.268724,Bolsover
+46982,471559,Victoria Bar,"2 Howgate, Kilwinning, Ayrshire",KA13 6EJ,229973,643366.0,55.653979,-4.703955,North Ayrshire
+30359,306143,The Yacht Inn,"Yacht Inn, Green Street, Penzance, Cornwall",TR18 4AU,147538,29947.0,50.115796,-5.532828,Cornwall
+10397,101953,Crown & Horseshoes,"Public House, 15 Horseshoe Lane, ENFIELD",EN2 6PZ,532419,196987.0,51.656082,-0.08712,Enfield
+4239,42111,The Dog And Partridge,"Dog And Partridge, High Road, North Stifford, Grays",RM16 5UQ,560039,180205.0,51.498125,0.304186,Thurrock
+29366,297979,Horfield & Bishopston Unionist Club,"293 Gloucester Road, Bishopston, Bristol",BS7 8PE,359252,175922.0,51.480776,-2.588167,"Bristol, City of"
+2874,27407,Khoi Khoi Bar and Vino,"31 Hitchin Street, Baldock",SG7 6AQ,524306,233772.0,51.988501,-0.191147,North Hertfordshire
+47240,474514,The Royal British Legion,"9-11 John Street, Stromness",KW16 3AD,325505,1009331.0,58.96465,-3.297049,Orkney Islands
+17956,187226,Halton Arms,"Murdishaw Avenue, Runcorn, Cheshire",WA7 6HP,355346,380234.0,53.317141,-2.67175,Halton
+14550,155113,The Nursery Inn,"Hopps Street, Hartlepool",TS26 8RA,450245,533054.0,54.690031,-1.222069,Hartlepool
+5804,56002,Vulcan Arms,"1 St Thomas Road, Normanton, Derby",DE23 8RF,435380,334231.0,52.904357,-1.475429,Derby
+33558,335335,Amesbury Bowls Club,"Salisbury Road, Amesbury, Salisbury, Wiltshire",SP4 7HH,415593,141287.0,51.170606,-1.778346,Wiltshire
+49919,501827,"Woodlands Tavern, Restaurant & Bar","Llanvair Discoed, Chepstow, Monmouthshire",NP16 6LX,344748,192408.0,51.62776,-2.799603,Monmouthshire
+49772,500683,Gurnos Social Club,"Alder Grove, Gurnos Estate, Merthyr Tydfil",CF47 9SF,304803,208135.0,51.763765,-3.380831,Merthyr Tydfil
+30974,312335,Castle Cary RFC,"Castle Cary Rugby Football Club, Castle Cary",BA7 7PF,363451,133814.0,51.102454,-2.523378,Mendip
+8236,77836,The Goose At Gamston,"Ambleside, Gamston, Nottinghamshire",NG2 6NA,467471,361464.0,53.146057,-0.992685,Rushcliffe
+31596,317449,Chandlers Bar & Bistro,"Queen Annes Battery, Queen Anne Place, Plymouth, Devon",PL4 0LP,248758,53844.0,50.365022,-4.127862,Plymouth
+816,8260,Earl Of Derby,"129 Hills Road, Cambridge, Cambridgeshire",CB2 1PG,545905,257158.0,52.193371,0.133181,Cambridge
+49399,496390,Wheatsheaf Inn,"Wheatsheaf Inn, Betws Yn Rhos, Abergele",LL22 8AW,290665,373593.0,53.248063,-3.640062,Conwy
+38803,379004,The Berkeley,"Evesham Road, Sneachill, Egdon, Worcestershire",WR7 4QL,391630,251512.0,52.161814,-2.123775,Wychavon
+7810,73057,HQ (Ground Floor),"132 Great Russell Street, Northampton, NN1 3BU",NN1 3BU,475848,261145.0,52.243273,-0.89056,Northampton
+16434,171737,The Old Chapel,"14-16 Railway Road, Darwen",BB3 2RG,369346,422304.0,53.696269,-2.465738,Blackburn with Darwen
+1567,15306,Bishops Stortford Social Club,"104 South Street, Bishops Stortford, Hertfordshire",CM23 3BG,548852,220986.0,51.867589,0.160537,East Hertfordshire
+35501,353816,Kings Arms,"45 High Street, Bromyard",HR7 4AE,365392,254723.0,52.189655,-2.507664,"Herefordshire, County of"
+19651,201263,Jalgos Sports & Social Club,"Rose Street, Preston",PR1 3XY,354288,429319.0,53.758211,-2.694834,Preston
+13761,149904,Fabio's,"66 Saddler Street, Durham City",DH1 3NP,427415,542469.0,54.776401,-1.575333,County Durham
+50649,507974,The Globe at Hay,"Newport Street, Hay-on-wye, Hereford",HR3 5BG,322988,242672.0,52.077031,-3.125123,Powys
+6281,59648,Cricket Ground,"Longmoor Lane, Sandiacre",NG10 5JH,447876,336367.0,52.922591,-1.289343,Erewash
+9199,87343,Plough And Harrow,"143 Bellegrove Road, Welling, Kent",DA16 3QS,546003,175925.0,51.463472,0.100378,Bexley
+17239,180543,The Weston,"76 Earlsway, Macclesfield",SK11 8SR,389561,373058.0,53.254425,-2.157925,Cheshire East
+2753,26126,Three Horseshoes,"Burnham Road, Althorne, Chelmsford, Essex",CM3 6DP,591301,198784.0,51.655285,0.764169,Maldon
+16632,174993,Nelson,"30 Chorley Old Road, Bolton",BL1 3AA,370907,409672.0,53.582823,-2.440911,Bolton
+1774,16725,High Beech Golf Club,"Wellington Hill, Loughton, Waltham Abbey, Essex",IG10 4AH,540595,198470.0,51.667424,0.031592,Epping Forest
+45787,455225,Redding & West Quarter Unity Club,"Redding & West Quarter Unity Club, Redding Road, Redding",FK2 9TX,291807,678314.0,55.985558,-3.735739,Falkirk
+32734,327922,The Duke Of Edinburgh,"Cricklade Road, Swindon",SN2 1AE,415515,186270.0,51.575086,-1.777513,Swindon
+39387,382962,Fleece Inn,"452 Allerton Road, Bradford",BD15 7DY,411328,434379.0,53.805594,-1.829472,Bradford
+14323,153390,Gateshead Bowling Green Club,"Prince Consort Road, Gateshead, Tyne and Wear",NE8 1LS,425341,562838.0,54.959538,-1.605794,Gateshead
+30943,311954,The Barn Owl,Thatcham Avenue Kingsway Quedgeley Gloucester,GL2 2GS,381573,213624.0,51.820932,-2.268746,Gloucester
+28405,287180,Hyde Tavern,"57 Hyde Street, Winchester, Hampshire",SO23 7DY,448108,130262.0,51.06968,-1.314766,Winchester
+26121,265520,Smokin' Billy's,"61 St Marys Butts, Reading",RG1 2LG,471350,173388.0,51.454978,-0.974508,Reading
+48421,488034,The Victoria,"106 Commercial Street, Maesteg, Maesteg, Bridgend County Borou",CF34 9HJ,285404,191102.0,51.607063,-3.656214,Bridgend
+40769,393498,Sotheron Arms,"105 High Street, Hook, Goole",DN14 5PQ,476106,425628.0,53.721519,-0.848128,East Riding of Yorkshire
+42816,409044,Bird in the Barley,"The Bird In The Barley, Northfield Road, Messingham, North Lincolnshire",DN17 3SQ,489279,405612.0,53.539576,-0.654289,North Lincolnshire
+15062,160397,Blyth Spartans Social Club,"Plessey Road, Blyth, Northumberland",NE24 3JE,431315,580741.0,55.120082,-1.510548,Northumberland
+31466,316316,Clevedon Golf Club,"Clevedon Golf Club, Castle Road, Clevedon, North Somerset",BS21 7AA,341476,172986.0,51.452816,-2.843631,North Somerset
+41564,399531,Crosland Heath Golf Club,"Felks Stile Road, Crosland Hill, Huddersfield",HD4 7AF,411046,414311.0,53.625219,-1.834462,Kirklees
+33971,339047,The Lunchtime Fellowship,"Station Hill Baptist Church, Station Hill, Chippenham, Wiltshire",SN15 1EG,391941,173558.0,51.460938,-2.117388,Wiltshire
+22602,229811,The Swan Inn,"Newtown, Newbury, Hampshire",RG20 9BH,447670,163932.0,51.372452,-1.316564,Basingstoke and Deane
+28970,292425,Wycombe Heights Golf Centre,"Wycombe Heights Golf Centre, Rayners Avenue, Loudwater, High Wycombe",HP10 9SZ,490028,191688.0,51.616829,-0.701085,Wycombe
+45206,449878,Kelburn Bar,Kelburn Bar 19 Cross Arthurlie Street Barrhead East Renfrewshire,G78 1QY,249773,658846.0,55.799465,-4.398091,East Renfrewshire
+6150,58680,Yates,"Embassy Centre, Grand Parade, Skegness",PE25 2UG,556890,363298.0,53.14373,0.344246,East Lindsey
+23592,240061,Carriers Arms,"12 West Street, Dover, Kent",CT17 0DU,631163,141820.0,51.128984,1.302428,Dover
+35589,354609,The Crown,"Walwyn Road, Colwall",WR13 6QP,375483,242483.0,52.080156,-2.359169,"Herefordshire, County of"
+48608,489216,The Patriot,"Main Street, Crumlin, Gwent.",NP11 4PT,321298,198365.0,51.678522,-3.139674,Caerphilly
+46506,463896,The Flying Duck,"142 Renfield Street, Glasgow",G2 3AU,258982,665886.0,55.865455,-4.254956,Glasgow City
+49576,498363,The Talbot,"West Road, Talacre, Flintshire",CH8 9SA,312021,384565.0,53.350626,-3.32315,Flintshire
+25429,258785,New Bradwell Sports Association,"Sports Pavilion, Bradwell Road, Bradville, Milton Keynes",MK13 7AD,483311,240950.0,52.060684,-0.786229,Milton Keynes
+36834,363691,The Abbey,"Abbey Hotel, 83 Monkmoor Road, Shrewsbury, Shropshire",SY2 5AZ,350399,312948.0,52.711906,-2.735638,Shropshire
+13323,147035,The Adventure Bar,"Ground Floor, 20 Bedford Street, London",WC2E 9HP,530216,180751.0,51.510691,-0.124965,Westminster
+18687,193333,The Cambridge,"51-57 Mulberry Street, Liverpool, Merseyside",L7 7EE,335793,389980.0,53.402717,-2.967197,Liverpool
+12532,133068,The Pig & Whistle,"Pig And Whistle, 86 Sheen Lane, East Sheen",SW14 8LP,520459,175524.0,51.465867,-0.267274,Richmond upon Thames
+12656,135099,Old salt quay,"163, Rotherhithe Street, London",SE16 5QU,535539,180173.0,51.504237,-0.048529,Southwark
+46267,459756,Bar Square,"5 Bell Street, Glasgow",G1 1NU,259588,665097.0,55.858549,-4.244888,Glasgow City
+29070,293797,Talbot Inn,"Bath Road, Keynsham, Bristol, Bath And North East Somerset",BS31 1NP,365813,168276.0,51.412465,-2.492949,Bath and North East Somerset
+4757,46672,Chequers Inn,"The Chequers Inn, High Street",NG15 7HD,453688,349202.0,53.037408,-1.200778,Ashfield
+37732,369625,The Sugarmill,"38 Brunswick Street, Hanley, Stoke-On-Trent",ST1 1DR,388173,347555.0,53.025152,-2.177779,Stoke-on-Trent
+26822,273352,Cafe Parfait Ltd,"194 Above Bar Street, Southampton",SO14 7DW,441967,112346.0,50.909056,-1.40447,Southampton
+8801,82266,Olde England,"Public House, 13 - 14 Silver Street, Wellingborough, Northamptonshire",NN8 1BQ,489125,267814.0,52.301227,-0.694398,Wellingborough
+9267,87901,Arista Bar,"232 Church Lane, London",NW9 8SN,520549,187451.0,51.573049,-0.261903,Brent
+16856,176854,Bridge Tavern,"6-8 Blackburn Street, Radcliffe, Bury",M26 1WW,378608,406984.0,53.559044,-2.324408,Bury
+28046,284357,Royal British Legion Club Ltd,"27 Victoria Road, Polegate, East Sussex",BN26 6DB,558051,105012.0,50.823093,0.242576,Wealden
+32169,322856,The Squire Inn,"67 Broad Street, Chipping Sodbury, Bristol, South Gloucestershire",BS37 6AD,372851,182252.0,51.53851,-2.392835,South Gloucestershire
+9586,92070,Circus,"27      Endell Street, London, Greater London",WC2H 9BA,530209,181177.0,51.514521,-0.124923,Camden
+50235,504478,Cottage Inn,"The Cottage Inn, 28 Main Street, Llangwm, Pembrokeshire",SA62 4HP,198932,209554.0,51.748512,-4.914175,Pembrokeshire
+3311,31464,Crab & Winkle,"3 Loxley, Werrington, Peterborough",PE4 5BW,516187,303785.0,52.619412,-0.285203,Peterborough
+6591,62305,The Commercial Inn,"137 Manor Park Road, Glossop",SK13 7SH,404133,394327.0,53.445704,-1.939226,High Peak
+43768,419256,Bay Horse Public House,"Stoney Lane, Chapelthorpe, Wakefield",WF4 3JN,432134,415451.0,53.634601,-1.515509,Wakefield
+3250,30905,The Freemasons Arms,"27 Hall Road, Norwich",NR1 3HQ,623393,307667.0,52.620792,1.298848,Norwich
+9826,94278,Wetherspoons,"Unit 7 The O2 Centre, 255      Finchley Road, London",NW3 6LU,526195,184796.0,51.547954,-0.181428,Camden
+23962,243222,HEDGE END CLUB LIMITED,"HEDGE END CLUB, 4 BURSLEDON ROAD, HEDGE END, SOUTHAMPTON",SO30 0BR,448862,112351.0,50.908568,-1.306408,Eastleigh
+9862,94815,City Flogger,"60 Mark Lane, London",EC3R 7ND,533350,180839.0,51.510752,-0.079797,City of London
+30986,312435,Crown Inn,"24, Keyford, Frome",BA11 1JW,377658,147453.0,51.225826,-2.321326,Mendip
+14855,158043,Saint Theresa's Catholic Men's Club,"Saint Teresa's Catholic Club, 200B Heaton Road, Newcastle upon Tyne",NE6 5HP,426872,565560.0,54.983919,-1.581616,Newcastle upon Tyne
+36957,363971,The Royal Oak,"Royal Oak, Cardington, Church Stretton, Shropshire",SY6 7JZ,350552,295183.0,52.552231,-2.730722,Shropshire
+23438,237438,The Star,Market Square Petworth West Sussex,GU28 0AH,497651,121679.0,50.986243,-0.610152,Chichester
+790,7786,The Old English Gentleman,"253 Turners Hill, Cheshunt, Hertfordshire",EN8 9DG,535764,202692.0,51.706549,-0.036578,Broxbourne
+29179,294896,Halo,"Exeter Road, Bournemouth",BH2 5AQ,408533,90944.0,50.718072,-1.880504,Bournemouth
+8800,82265,Old Swan Public House,"8 The Square, Earls Barton, Northampton, Northamptonshire",NN6 0NA,485211,263707.0,52.264934,-0.752819,Wellingborough
+19465,199782,The Stock Pot,"Trading at The Wellington, 29 Chew Valley Road, Greenfield, Oldham",OL3 7AF,399376,404572.0,53.537786,-2.010886,Oldham
+16558,174210,Daisy Hill Football Club,"Daisy Hill New Sirs, St James Street, Westhoughton, Bolton",BL5 2EB,365663,404188.0,53.533215,-2.519512,Bolton
+35842,356331,The Crown,"21 Malvern Road, Powick, Worcester",WR2 4SF,381859,251023.0,52.157182,-2.266589,Malvern Hills
+40056,387670,Todmorden Golf Club,"Rive Rocks, Broad Gate, Todmorden",OL14 8RD,394466,424928.0,53.72073,-2.08534,Calderdale
+11787,120436,My Place Nightclub,"1-3 Trebovir Road, LONDON, SW5 9LS",SW5 9LS,525438,178590.0,51.49235,-0.194546,Kensington and Chelsea
+23083,234640,Polo Farm Sports Club,"Littlebourne Road, Canterbury,",CT3 4AF,618216,157946.0,51.278848,1.127476,Canterbury
+37650,369371,Suburban Social Club,"128 Greasley Road, Abbey Hulton, Stoke-On-Trent",ST2 8HZ,391035,348436.0,53.033127,-2.135134,Stoke-on-Trent
+44548,443054,Crown Inn,"Crown Inn, 49-51 High Street, Monifieth, Dundee",DD5 4AA,349700,732492.0,56.481826,-2.818288,Angus
+25711,261413,THE OAK INN,"PINKNEY LANE, BANK, LYNDHURST",SO43 7FD,428469,106930.0,50.861175,-1.596881,New Forest
+11648,119138,Tap Room,"Tap Room, 163 Upper Street, Islington, London",N1 1US,531650,184129.0,51.540724,-0.103051,Islington
+29262,296380,Avonmouth Bowling Club,"Avonmouth Bowling Club And Sports Ground, Barracks Lane, Shirehampton, Bristol",BS11 9NG,352691,177683.0,51.496087,-2.682875,"Bristol, City of"
+6960,66355,The Balmoral,"190 Belgrave Road, Leicester",LE4 5AX,459492,306264.0,52.650845,-1.122049,Leicester
+30642,308537,Sidmouth Sailing And Angling Club,"Port Royal Club, The Esplanade, Sidmouth",EX10 8BG,312834,87343.0,50.679194,-3.235073,East Devon
+2923,27843,The Bull Inn,"34 High Street, Whitwell, Hitchin",SG4 8AG,518569,221097.0,51.875848,-0.279016,North Hertfordshire
+16982,178365,The Pheasant Inn,"The Pheasant Inn, Cumwhitton",CA8 9EX,350605,552275.0,54.862805,-2.771067,Carlisle
+24503,248516,"Clarence, The","The Clarence Hotel, 391 London Road, St Leonards-on-sea, East Sussex",TN37 6PH,579963,110677.0,50.867594,0.556144,Hastings
+38043,371559,Wilnecote Sports & Recreation Association,"Brook Avenue, Wilnecote, Tamworth",B77 5BT,423025,301275.0,52.608771,-1.661416,Tamworth
+33115,331649,Royal Torbay Yacht Club,"12 Beacon Terrace, Victoria Parade, Torquay, Devon",TQ1 2BH,291890,63188.0,50.45853,-3.524379,Torbay
+9046,85376,Lambo Bar,"The Tavern, 75 Cricklewood Lane, London",NW2 1HR,524334,186170.0,51.560706,-0.207767,Barnet
+5555,54022,Plume of Feathers,"Market Square, Town Centre, Daventry, Northamptonshire",NN11 4BH,457424,262605.0,52.258634,-1.160111,Daventry
+19055,196948,Raoshi,"Yew Tree Hotel, Yewtree Lane, Northenden, Manchester",M23 0FF,381518,390675.0,53.412556,-2.279512,Manchester
+7456,70189,Gate Inn,"Main Road, Troway, Marsh Lane, Sheffield",S21 5RU,439162,379509.0,53.311078,-1.413696,North East Derbyshire
+11096,111134,Wellington (Formely Tee's),"Wellington Terrace, Turnpike Lane, Wood Green, London",N8 0PX,531431,189652.0,51.590399,-0.104144,Haringey
+11921,122136,Supreme Bowling Club,"Kings College Sports Ground, Windsor Avenue, New Malden",KT3 5HA,520341,167678.0,51.395377,-0.271635,Kingston upon Thames
+35569,354568,The Bell Inn,"Bosbury, Herefordshire",HR8 1PX,369530,243378.0,52.087906,-2.446114,"Herefordshire, County of"
+15985,168210,PHILADELPHIA,"PHILADELPHIA LANE, HOUGHTON-LE-SPRING",DH4 4JG,433286,552325.0,54.864614,-1.482937,Sunderland
+4560,45481,The Woodman Inn and Restaurant,"21 Warrengate Road, Hatfield, Hertfordshire",AL9 7TT,522949,204149.0,51.722585,-0.221426,Welwyn Hatfield
+44999,447129,Bellfield Inn,"Bellfield Inn, 11 Welbeck Street, Kilmarnock, East Ayrshire",KA1 3JN,243180,637343.0,55.604356,-4.490826,East Ayrshire
+25183,255828,Mossys Tavern,"Flat, The Wheatsheaf, 53 Capstone Road, Lordswood",ME5 7PU,577489,166249.0,51.367567,0.548336,Medway
+44320,440194,LANGDYKES,"Loirston Avenue, Cove Bay, Aberdeen",AB12 3HL,394641,803991.0,57.126811,-2.090154,Aberdeen City
+27077,275958,Clubhouse And Snack Bar,"Park Avenue Holiday Camp, Park Avenue, Leysdown, Kent",ME12 4QP,603478,170208.0,51.394411,0.923476,Swale
+35243,351911,The Limes Social Club,"Fenton Street, Brierley Hill",DY5 3HD,391591,287193.0,52.482601,-2.12525,Dudley
+39071,380497,Golden Nugget Wmc,"Golden Nugget Wmc, 2 Cooperative Street, Goldthorpe",S63 9HN,446450,404331.0,53.533587,-1.300672,Barnsley
+26981,274850,Jolly Butcher,"Jolly Butcher Public House, 174 Kingston Road, Staines-upon-Thames",TW18 1PE,505159,170902.0,51.42737,-0.488815,Spelthorne
+48532,488774,Masons Arms,"Mill Terrace, Pontymister, Risca",NP11 6LH,324628,190192.0,51.605499,-3.089744,Caerphilly
+38754,378370,Bredon Football Club,"Bredon A F C Rear Of, Village Hall, Kemerton Road, Westmancote",GL20 7QN,392902,236868.0,52.030175,-2.10487,Wychavon
+47710,479690,Glenburn Social Club,35D Glenburn Road Prestwick South Ayrshire ,KA9 2NS,236393,625912.0,55.499524,-4.591689,South Ayrshire
+48558,488964,Pontygwindy Alehouse,"222 Pontygwindy Road, Caerphilly",CF83 3HR,315470,188102.0,51.585409,-3.221448,Caerphilly
+20522,208437,Upsteps Hotel,"20 Upper Aughton Road, Birkdale, Merseyside",PR8 5ND,333464,415956.0,53.635884,-3.007749,Sefton
+41903,401951,The Huddersfield Irish Centre,"Irish Club, 86 Fitzwilliam Street, Huddersfield",HD1 5BB,414309,417100.0,53.6502,-1.785,Kirklees
+27284,277507,Brendoncare - Romsey Tuesday Lunch Club,"Age Concern, 24 Linden Road, Romsey, Hampshire",SO51 8DB,435535,121201.0,50.989118,-1.495086,Test Valley
+43435,414497,The Board Inn,"Lealholm, Whitby, North Yorkshire",YO21 2AJ,476218,507512.0,54.457275,-0.825827,Scarborough
+11460,116685,Hounslow Conservative Club,"Gresham Road, Hounslow",TW3 4BX,514277,176805.0,51.47867,-0.355815,Hounslow
+35392,352941,The Great Northern,"Wetmore Road, Burton upon Trent",DE14 1QS,425430,324683.0,52.81908,-1.624114,East Staffordshire
+50039,502675,The Angel Inn,"Pontneathvaughan Road, Glynneath, Neath Port Talbot",SA11 5NR,289911,207534.0,51.75564,-3.596345,Neath Port Talbot
+40496,391247,Tickhill Institute,"Northgate, Tickhill, Doncaster",DN11 9HZ,459616,404923.0,53.537582,-1.10195,Doncaster
+25464,259282,The Cock Inn,"35 High Street, Hanslope, Milton Keynes",MK19 7LQ,480309,246948.0,52.115032,-0.828596,Milton Keynes
+47172,473927,The Blinny,"144 Main Street, Shotts, Lanarkshire",ML7 5HA,288267,659307.0,55.814055,-3.784576,North Lanarkshire
+3655,36096,Porters Pub,"367 Westborough Road, Westcliff-On-Sea, Essex",SS0 9TS,586128,186604.0,51.547627,0.683017,Southend-on-Sea
+13049,143110,The Latchmere PH,"Latchmere Public House, 503 Battersea Park Road, London",SW11 3BW,527496,176371.0,51.471939,-0.165719,Wandsworth
+43996,421479,Westgate Common Working Mens Club,"Park Grove Road, Wakefield",WF2 8TW,432156,420250.0,53.677741,-1.514681,Wakefield
+42675,407720,Cleethorpes Bowling Club Ltd,"Elm Gardens, Cleethorpes",DN35 8HN,530408,408701.0,53.558726,-0.032721,North East Lincolnshire
+22686,230597,The Winning Post,"Winkfield Street, Winkfield, Windsor",SL4 4SW,490046,172742.0,51.446519,-0.705663,Bracknell Forest
+50445,506305,Black Lion Inn Ltd,"Derwenlas, Machynlleth, Powys",SY20 8TN,272244,299125.0,52.57489,-3.88667,Powys
+11384,115783,The Harefield,"The Harefield, 41 High Street, Harefield",UB9 6BY,505147,190332.0,51.602023,-0.483198,Hillingdon
+38572,377263,The Gate House,"The Gatehouse Public House, Donington Grove, Wolverhampton, West Midlands",WV10 6EE,391267,301388.0,52.610197,-2.130399,Wolverhampton
+31284,314824,Pyne Arms,"East Down, Devon",EX31 4LX,260012,141414.0,51.154808,-4.003068,North Devon
+36838,363696,The Apple Tree,"Apple Tree Cafe Bar And Shop, Onibury, Craven Arms, Shropshire",SY7 9AW,345516,279336.0,52.4093,-2.802376,Shropshire
+16779,176170,Fulledge Conservative Club,"34-36 Plumbe Street, Burnley",BB11 3AB,384526,432420.0,53.787856,-2.236348,Burnley
+8382,78824,Smithy's Marina Bar,"London Road, Shardlow, Derby, Derbyshire",DE72 2GL,444164,330279.0,52.868176,-1.345375,South Derbyshire
+22105,225362,The Crab Tree,"6 Buckingham Road, Shoreham-By-Sea, West Sussex",BN43 5UA,521745,105380.0,50.835157,-0.272472,Adur
+35282,351980,The Shrewsbury Arms,"2 Wolverhampton Street, Dudley",DY1 1DA,394369,290231.0,52.50994,-2.084396,Dudley
+30391,306490,Watermill Inn,"Watermill Restaurant, Lelant Downs, Hayle, Cornwall",TR27 6LQ,154087,36442.0,50.176853,-5.445603,Cornwall
+27579,280101,Monks Head,"Monks Head, 44 New Hythe Lane, Larkfield, Aylesford",ME20 6PN,570348,158464.0,51.299807,0.442148,Tonbridge and Malling
+7312,69349,"Knots, Farndon Harbour","North End, Farndon, Nottinghamshire",NG24 3SX,476945,352143.0,53.061005,-0.853301,Newark and Sherwood
+12838,140076,Essex House,"152-154 Station Road, Chingford",E4 6AN,539191,194697.0,51.63387,0.009803,Waltham Forest
+34492,345392,The Fountain,"The Fountain, 93 Cheapside, Birmingham",B12 0QH,407892,285989.0,52.47178,-1.885246,Birmingham
+49504,497972,Millhouse Inn,"Broughton Shopping Park, Chest, Broughton, Flintshire",CH4 0DP,335076,363986.0,53.16901,-2.972658,Flintshire
+40399,390854,Stainforth Central Club,"Silver Street, Stainforth, Doncaster",DN7 5AJ,464289,412008.0,53.600696,-1.029992,Doncaster
+48361,487768,Playdays Nursery & School Club,"53 Commercial Street, Maesteg, Maesteg, Bridgend County Borou",CF34 9HJ,285404,191102.0,51.607063,-3.656214,Bridgend
+35564,354561,The Balance Inn,"Luston, Herefordshire",HR6 0EB,348663,262993.0,52.262691,-2.753615,"Herefordshire, County of"
+7129,67843,Corner House,"37-39 Church Street, Mansfield, Nottinghamshire",NG18 1AF,453975,361073.0,53.144068,-1.19451,Mansfield
+14553,155120,The Pot House,"Croft Terrace, Hartlepool",TS24 0QX,452782,533600.0,54.694678,-1.182619,Hartlepool
+43609,416621,Harley Hotel,"Harley Hotel, 334 Glossop Road, Sheffield",S10 2HW,434318,387182.0,53.38038,-1.485565,Sheffield
+9038,85174,Hendon Rugby Football Club,"Hendon Rugby Football Club,  Greenlands Lane, London",NW4 1RL,522925,190937.0,51.603873,-0.226415,Barnet
+34731,346962,Chadsmoor Progressive Working Mens Club,"18 Burns Street, Blackfords, Chadsmoor, Cannock",WS11 6DR,399016,311425.0,52.700498,-2.016013,Cannock Chase
+50786,508857,Dynevor Arms,"Peterston Road, Groes-Faen, Pontyclun",CF72 8NS,307004,181017.0,51.520388,-3.341731,Rhondda Cynon Taf
+44807,445810,Ballumbie Castle Golf Club,"1 Old Quarry Road, Dundee",DD4 0SY,344162,733969.0,56.494477,-2.908509,Dundee City
+39618,385189,The Golden Fleece,"126-128 Lane Ends, Colne Road, Oakworth, Keighley",BD22 7PR,402819,438786.0,53.845309,-1.958638,Bradford
+44068,422433,Keystones,"4 Monkgate, York",YO31 7PE,460586,452246.0,53.962756,-1.07805,York
+19770,202240,Higher Buck Inn,"Higher Buck Inn, The Square, Waddington, Clitheroe, Lancashire",BB7 3HZ,372826,443933.0,53.890858,-2.41495,Ribble Valley
+33424,334110,THE GRIFFINS HEAD INN,"Griffins Head Inn, The Folly, Nether Compton, Dorset",DT9 4QE,377510,97780.0,50.779152,-2.32035,West Dorset
+36655,362012,Albion Vaults,"Albion Inn, 12 Castle Foregate, Shrewsbury, Shropshire",SY1 2DJ,349394,312970.0,52.712011,-2.750517,Shropshire
+42942,410198,Westlands Club,"Todds Lane, Burton Upon Stather, North Lincolnshire",DN15 9DG,487043,417686.0,53.648438,-0.684654,North Lincolnshire
+14897,158359,The Forth Hotel,"17-23 Pink Lane, Newcastle upon Tyne",NE1 5DW,424527,563957.0,54.969626,-1.61841,Newcastle upon Tyne
+7311,69328,Just Beer Micropub,"32a Castle Gate, Newark On Trent, Nottinghamshire",NG24 1BG,479579,353893.0,53.076348,-0.813574,Newark and Sherwood
+45900,456301,Coady's Bar,16-20 Pilmuir Street Dunfermline Fife,KY12 7AJ,309155,687645.0,56.072958,-3.460953,Fife
+3360,32507,The Harvester,"The Harvester, East of England Way, Orton Northgate, Peterborough",PE2 6HE,513825,295907.0,52.54912,-0.322766,Peterborough
+41970,402103,The White Horse,"761 Leeds Road, Huddersfield",HD2 1YZ,416462,418792.0,53.665345,-1.752339,Kirklees
+5395,52387,Alma Inn,"126 Chatsworth Road, Chesterfield, Derbyshire",S40 2AR,437216,370950.0,53.234287,-1.443885,Chesterfield
+40259,389306,Conisbrough Castle Bar,"Chapel Lane, Conisbrough, Doncaster",DN12 2BW,451221,398445.0,53.480244,-1.229658,Doncaster
+29165,294540,Cameo & Myu Bar,"7 Fir Vale Road, Bournemouth",BH1 2JA,409011,91368.0,50.721859,-1.873709,Bournemouth
+39823,386411,Greetland All Rounders,"Sports Ground, Norland Road, Greetland",HX4 8PT,406724,421240.0,53.68757,-1.899662,Calderdale
+48511,488599,Hafodyrynys Inn,"Pontbren Road, Hafodyrynys, Newport",NP11 5BE,322743,198932.0,51.683821,-3.118891,Caerphilly
+35067,350596,Foresters Arms Public House,"Bridgnorth Road, Wollaston, Stourbridge",DY8 3PL,388284,284764.0,52.460703,-2.173859,Dudley
+34332,342798,L M R C A Social Club,"674 Warwick Road, South Yardley, Birmingham",B11 2HJ,410536,283961.0,52.453495,-1.846387,Birmingham
+4312,42720,Saffron Walden Rugby Club,"Saffron Walden Rugby Football Club, Chickney Road, Henham, Bishops Stortford",CM22 6BG,555062,229153.0,51.939279,0.254329,Uttlesford
+39450,383648,Library Bar,"1 Glydegate, Bradford",BD5 0BQ,416070,432767.0,53.790973,-1.757551,Bradford
+29676,300361,Timbuk 2,"22 Small Street, City Centre, Bristol",BS1 1DW,358799,173043.0,51.454858,-2.594353,"Bristol, City of"
+15552,164298,The Yorkshire Lass,"Gurney Street, New Marske",TS11 8EG,462239,521236.0,54.582513,-1.038525,Redcar and Cleveland
+25041,254155,Duke Of Marlborough,"27 Union Street, Maidstone, Kent",ME14 1ED,576209,156031.0,51.276177,0.524935,Maidstone
+29213,295642,Spyglass and Kettle,"25-27 Stourwood Avenue, Bournemouth",BH6 3PW,413521,91454.0,50.722555,-1.809831,Bournemouth
+45456,452913,Prestonfield Golf Club,"6 Priestfield Road North, Edinburgh",EH16 5HS,327227,672115.0,55.936559,-3.166502,City of Edinburgh
+18595,192786,Revolution,"18-22 Wood Street, LIVERPOOL, Merseyside",L1 4AQ,334905,390077.0,53.40348,-2.980571,Liverpool
+49344,496050,Snowdon,"11 Tudno Street, Llandudno",LL30 2HB,277966,382670.0,53.326833,-3.833771,Conwy
+24911,252698,Tinto's,"24a Pier Street, Ventnor",PO38 1ST,456349,77535.0,50.594831,-1.205249,Isle of Wight
+43416,414341,Shakespeare Inn,"2 - 3 St Helens Square, Scarborough, North Yorkshire",YO11 1EU,504456,488722.0,54.283468,-0.397021,Scarborough
+10189,98648,The Sandrock,The Sandrock 152 Upper Shirley Road Croydon CR0 5HA,CR0 5HA,535650,164975.0,51.367645,-0.052746,Croydon
+8932,83253,The Plough Inn,"The Plough, 1 The Green, Nettleham, Lincoln",LN2 2NR,500907,375363.0,53.265674,-0.488553,West Lindsey
+19692,201826,The Bear's Paw,"42 Church Street, Preston",PR1 3DH,354339,429488.0,53.759744,-2.69407,Preston
+44906,446574,No 1's Bar and Restaurant,"1-5 Ward Road, Dundee",DD1 1LP,340039,730409.0,56.461991,-2.974643,Dundee City
+43881,420783,Rock Inn,"Rock Hill, Castleford",WF10 4RD,444013,424642.0,53.716344,-1.334573,Wakefield
+50289,504906,Jubilee Hotel,"Jubilee Hotel, 112 St Davids Road, Letterston, Haverfordwest, Pembrokeshire",SA62 5SJ,193983,229643.0,51.927077,-4.997731,Pembrokeshire
+45288,451108,CROSS KEYS INN,43 Lanark Road,EH14 1TL,321996,670627.0,55.922372,-3.249786,City of Edinburgh
+15318,162845,The Grapes,"1 St Marys Chare, Hexham, Northumberland",NE46 1NQ,393596,563998.0,54.970549,-2.101569,Northumberland
+10845,107568,The Victoria,"The Victoria, 451 Queensbridge Road, London",E8 3AS,533913,184642.0,51.544803,-0.070244,Hackney
+30825,310192,Sorry Head (Horse & Dray),"10 Blackboy Road, Exeter, Devon",EX4 6SG,292846,93302.0,50.729421,-3.51961,Exeter
+47060,472287,Dalziel Bowling Club,"494 Windmill Hill Street, Motherwell, Lanarkshire",ML1 2AF,276000,656053.0,55.78184,-3.978739,North Lanarkshire
+20737,210613,The Gables,The Gables 2 Hough Lane Leyland Lancashire,PR25 2SD,354222,422256.0,53.694727,-2.694771,South Ribble
+29005,292971,Fromeway Inn,"62 Frome Road, Radstock",BA3 3LG,369582,154673.0,51.29037,-2.437591,Bath and North East Somerset
+32016,321460,Cleeve Hill Lawn Tennis Club,"Cleeve Hill, Downend, Bristol, South Gloucestershire",BS16 6EU,364801,177098.0,51.491732,-2.508381,South Gloucestershire
+34581,345625,The Woodman,"Woodman Inn, New Canal Street, Birmingham",B5 5LG,407787,287095.0,52.481715,-1.886766,Birmingham
+15313,162821,The Foxes Den,"2-4 Riverside, Felton, Northumberland",NE65 9EA,418479,600336.0,55.29679,-1.710528,Northumberland
+39644,385272,The Monkey (Bar Only),"931-933 Great Horton Road, Bradford",BD7 4AQ,413272,430996.0,53.775134,-1.800098,Bradford
+3187,30379,Mantra Club And Lounge,"50 Prince Of Wales Road, Norwich",NR1 1LL,623539,308644.0,52.629492,1.301661,Norwich
+31693,318585,The Royal,"99 Edgcumbe Street, Plymouth",PL1 3SZ,246382,54424.0,50.369609,-4.161481,Plymouth
+44158,423223,The Last Drop Inn,"27 Colliergate, York",YO1 8BN,460483,451933.0,53.959955,-1.079681,York
+8062,76198,Southbank City,"12-18 Friar Lane, Nottingham",NG1 6DQ,457066,339782.0,52.95239,-1.152067,Nottingham
+32340,323960,Ye Olde Smokey House,"Ye Olde Smokey House, Vicarage Road, Marldon",TQ3 1NN,287013,62790.0,50.454031,-3.59295,South Hams
+15260,162574,Stocksfield Tennis Club,"Guessburn, Stocksfield, Northumberland",NE43 7QS,396816,602766.0,55.318954,-2.051721,Northumberland
+15996,168385,ROYAL BRITISH LEGION CLUB,"6, GRANGE CRESCENT, SUNDERLAND",SR2 7BN,439604,556325.0,54.900089,-1.383962,Sunderland
+5554,54001,Old Kings Head,"2 Harbidges Lane, Long Buckby, Northamptonshire",NN6 7QL,462442,267604.0,52.303007,-1.085679,Daventry
+3192,30412,Micawbers Tavern,"92 Pottergate, Norwich",NR2 1DZ,622580,308701.0,52.630387,1.287553,Norwich
+42364,405900,Queens Arms,"99 Long Row, Horsforth, Leeds",LS18 5AT,424195,438842.0,53.845261,-1.633746,Leeds
+36187,358426,Miners Arms,"Miners Arms, Marston Lane, Bedworth",CV12 8DH,435935,287785.0,52.486806,-1.472234,Nuneaton and Bedworth
+43884,420800,Roundhill Working Mens Club,"Roundhill Road, Castleford",WF10 5AE,442644,424983.0,53.719522,-1.355268,Wakefield
+24989,253726,The Dewdrop Inn,"19 Steyning Avenue, Peacehaven, East Sussex",BN10 8LT,541172,100844.0,50.789993,0.0015,Lewes
+3680,36453,The Cricketers Inn,"Cricketers Inn, 228 London Road, Westcliff-On-Sea, Essex",SS0 7JG,587284,185841.0,51.540392,0.699263,Southend-on-Sea
+27409,278511,Chilton Tavern,"187 Pegwell Road, Ramsgate, Kent",CT11 0LY,636376,164473.0,51.330196,1.391726,Thanet
+41714,400768,Mirfield Cricket Club The Pavilion,"Mirfield Memorial Park, Huddersfield Road, Mirfield",WF14 8AE,420552,419753.0,53.673838,-1.690378,Kirklees
+33853,338762,The Bath Arms,"Market Place, Warminster, Wiltshire",BA12 9AZ,387562,145070.0,51.204703,-2.179414,Wiltshire
+38352,374438,White Lion,"150 Sandwell Street, Walsall, West Midlands",WS1 3EQ,401597,297467.0,52.575019,-1.977866,Walsall
+42763,408681,The County Hotel,"Pelham Road, Immingham",DN40 1AD,518957,415137.0,53.619273,-0.203046,North East Lincolnshire
+18763,193536,The Stadium,"2-6 Townsend Lane, LIVERPOOL, Merseyside",L6 0BA,337097,392844.0,53.428614,-2.948159,Liverpool
+39397,383069,Glassy Bar Ltd,"95 Legrams Lane, Bradford",BD7 1NH,414963,432863.0,53.791869,-1.77435,Bradford
+1445,14325,The Court Theatre at Pendley,"Pendley Arts Centre, Station Road, Tring, Herts",HP23 5QY,494205,212025.0,51.798948,-0.635283,Dacorum
+43505,414885,Byram Park Social Club & Institiute,"Kirkthorne Wood, Old Great North Road, Brotherton",WF11 9DX,449049,425492.0,53.723526,-1.258138,Selby
+5091,49529,The Three Horseshoes Inn,"78 Town Street, Pinxton, Nottingham",NG16 6HN,446024,355479.0,53.094541,-1.314155,Bolsover
+33088,331261,Farmhouse Tavern,"130 Newton Road, Torquay, Devon",TQ2 7AD,289801,66121.0,50.484507,-3.554661,Torbay
+30058,304601,Poldark Inn,"The Poldark Inn, Treligga Downs, Delabole, Cornwall",PL33 9DQ,206051,83943.0,50.622864,-4.743317,Cornwall
+4138,40787,The Crown,"51 High Street, Manningtree, Essex",CO11 1AH,610779,231886.0,51.945522,1.065449,Tendring
+22278,227422,The Compasses Inn,"Sole Street, Crundale, Kent",CT4 7ES,609659,149312.0,51.20452,0.999929,Ashford
+48058,484171,Chandlers,"2 Kilbowie Road, Clydebank",G81 1TH,249697,670136.0,55.900801,-4.405559,West Dunbartonshire
+6520,61772,Bulls Head Inn,"78 Old Road, Tintwistle",SK13 1JY,402297,397386.0,53.473201,-1.966862,High Peak
+12280,127972,Tunnel 267,"267 The Broadway, London",SW19 1SD,525614,170458.0,51.419228,-0.194897,Merton
+47770,480332,The Brig,1 Main Street Ayr South Ayrshire,KA8 8BU,233800,622385.0,55.466981,-4.630579,South Ayrshire
+35591,354620,The Exchange,"40 Widemarsh Street, Hereford",HR4 9EP,351007,240179.0,52.057822,-2.715973,"Herefordshire, County of"
+6837,64082,The White Hart,"11 West Street, Geddington, Northamptonshire",NN14 1BD,489349,283117.0,52.438731,-0.687043,Kettering
+9443,90588,Langley Park Golf Club,"Barnfield Wood Road, Beckenham",BR3 6SZ,538666,167283.0,51.387658,-0.008549,Bromley
+47289,475491,Red House Hotel,"Red House Hotel, Station Road, Coupar Angus, Blairgowrie",PH13 9AL,322350,740254.0,56.547831,-3.264568,Perth and Kinross
+13926,151433,Royal Air Forces Association,"43-47 Cockton Hill Road, Bishop Auckland",DL14 6HS,420907,528790.0,54.653777,-1.67748,County Durham
+11974,122284,The Wych Elm Pub,"93 Elm Road, Kingston Upon Thames",KT2 6HT,518689,170026.0,51.416836,-0.294584,Kingston upon Thames
+24230,245972,Lee On The Solent Conservative Club,"Court Barn, Court Barn Lane, Lee-On-The-Solent",PO13 9NZ,456706,101193.0,50.807516,-1.19658,Gosport
+26203,266246,Lower Kingswood Social Club,"Buckland Road, Lower Kingswood, Surrey",KT20 7DN,524821,153467.0,51.2667,-0.212248,Reigate and Banstead
+37436,367299,Checkley Cricket Club,"Uttoxeter Road, Checkley, Stoke on Trent",ST10 4NA,402313,338313.0,52.942212,-1.967028,Staffordshire Moorlands
+35010,349969,Amblecote Institute Social Club,"Collis Street, Amblecote, Stourbridge",DY8 4EA,389826,285654.0,52.468726,-2.151191,Dudley
+3103,29413,The Lobster,"Lobster Inn, 13 High Street, Sheringham, Norfolk",NR26 8JP,615924,343408.0,52.944603,1.212253,North Norfolk
+37789,369955,Bidford Grange Golf Club,"Bidford Grange, Bidford-on-Avon, Alcester",B50 4LY,411716,251607.0,52.162612,-1.830137,Stratford-on-Avon
+38353,374444,Why Not Inn,"St Georges Street, Darlaston, Walsall, West Midlands",WS10 8LF,397749,297290.0,52.573434,-2.034646,Walsall
+46264,459750,Bar 91,"91 Candleriggs, Glasgow",G1 1NP,259532,665131.0,55.858838,-4.2458,Glasgow City
+43099,412003,Robin Hood,"9 Church Street, Swinton, Rotherham",S64 8QA,445519,399193.0,53.487489,-1.315462,Rotherham
+41614,399926,Greenhead Masonic Hall,"26 Greenhead Road, Huddersfield",HD1 4EN,413991,416744.0,53.647018,-1.789826,Kirklees
+37533,367869,Windmill Inn,"Ashbank Road, Werrington, Stoke on Trent",ST9 0DT,394458,347591.0,53.025579,-2.084076,Staffordshire Moorlands
+42888,409816,Queens Head,"Queens Head Hotel, 19 Queen Street, Epworth, North Lincolnshire",DN9 1HG,478319,403694.0,53.524077,-0.820109,North Lincolnshire
+31987,321077,Wild Rocket Restaurant Bar,"18 High Street, Bridgwater",TA6 3BJ,329734,137038.0,51.128291,-3.005502,Sedgemoor
+27858,282384,The White Horse,"Woolstone, Faringdon, Oxon",SN7 7QL,429383,187854.0,51.588778,-1.577272,Vale of White Horse
+21735,221449,Standish Unity Club,"Cross Street, Standish, Wigan",WN6 0HQ,356219,410170.0,53.586284,-2.662824,Wigan
+11100,111275,Barnet Football Club,"The Hive, Camrose Avenue",HA8 6AG,518605,190574.0,51.601528,-0.288886,Harrow
+12605,133718,Canavans peckham pool club,"188, Rye Lane, London",SE15 4NF,534395,176013.0,51.467136,-0.066583,Southwark
+24595,249566,Leigh Park Working Mens Club,"439 Dunsbury Way, Havant",PO9 5BD,471132,108463.0,50.871301,-0.990464,Havant
+41430,398612,The Manor Farm,"194 Willerby Road, Hull",HU5 5JW,505110,429670.0,53.752796,-0.407375,"Kingston upon Hull, City of"
+17973,187437,Norton Arms Hotel,"Main Street, Runcorn, Cheshire",WA7 2AD,353782,382195.0,53.334632,-2.695511,Halton
+41055,395091,The Wellington Heifer,"Wellington Heifer Inn, Church View, Ainderby Steeple, North Yorkshire",DL7 9PU,433439,492056.0,54.322993,-1.487396,Hambleton
+34445,345170,T/A Medicine Bar,"Scott House The Custard Factory, Gibb Street, Birmingham",B9 4AA,407934,286390.0,52.475375,-1.884618,Birmingham
+50103,503177,Danny's Noodle Bar @ McCann's Rock Bar,10 High Street Newport South Wales,NP20 1FQ,331054,188328.0,51.589567,-2.996603,Newport
+6891,65366,Leicester Electricity Sports Club,"Leicester Electricity Sports Cricke, 66 New Bridge Street, Leicester",LE2 7JR,458484,303134.0,52.622819,-1.1375,Leicester
+22559,229726,The Crown,"Newbury Road, Kingsclere, Newbury, Hampshire",RG20 5QU,452547,158731.0,51.325261,-1.247258,Basingstoke and Deane
+37012,364178,White Bear,"10 High Street, Whitchurch, Shropshire",SY13 1AR,354172,341508.0,52.968959,-2.683817,Shropshire
+16000,168403,RYHOPE W. M. C.,"84, RYHOPE STREET SOUTH, SUNDERLAND",SR2 0AG,440161,553133.0,54.871371,-1.37572,Sunderland
+22739,231231,Cherubs At The Bear Inn,"The Bear Inn, Lewes Road, Brighton",BN2 4AE,532208,105961.0,50.838085,-0.123759,Brighton and Hove
+33682,336735,Halfway House,"Wilton Road, Salisbury, Wiltshire",SP2 7JY,412669,130631.0,51.074859,-1.820554,Wiltshire
+21792,221971,Aura Lounge Bar,"103 Market Street, Hoylake, Wirral, Merseyside",CH47 5AA,321991,389353.0,53.39523,-3.174593,Wirral
+3735,37129,Old Bell,"177 Luton Road, Harpenden, Hertfordshire",AL5 3BN,512607,215226.0,51.824318,-0.367494,St Albans
+44642,443809,Ashton Bar,74 West Princes Street Helensburgh Argyll And Bute G84 8UG,G84 8UG,229476,682456.0,56.004628,-4.736384,Argyll and Bute
+46955,471444,The Blair Tavern,"Blair Tavern Access Road, Auchentiber, Kilwinning",KA13 7RR,236519,647119.0,55.689921,-4.602273,North Ayrshire
+44630,443676,Thistle Bar,"Mutchies, 199 East High Street, Forfar",DD8 2HL,346112,750865.0,56.646478,-2.880362,Angus
+34668,346693,The Gate At Bourneheath,"36 Dodford Road, Bournheath, Bromsgrove, Worcestershire",B61 9JR,394815,274079.0,52.364738,-2.077569,Bromsgrove
+4915,48166,The Gate,"The Gate Inn, Smeath Lane, Clarborough, Nottinghamshire",DN22 9JW,472578,383712.0,53.345333,-0.911285,Bassetlaw
+37159,365596,Wilsons Arms Toby Carvery,"Wilsons Arms, 1635 Warwick Road, Knowle, Solihull, West Midlands",B93 9AH,417995,277009.0,52.390813,-1.736998,Solihull
+49802,500964,Whitehall Golf Club,"The Pavillion, Nelson, Cilfynydd Mountain, Abercynon",CF46 6ST,309481,195157.0,51.647904,-3.309691,Merthyr Tydfil
+40512,391406,Willa Spoons,"Silver Street, Thorne, Doncaster",DN8 5DT,468872,413148.0,53.610368,-0.960498,Doncaster
+10376,101635,Bar Taps,"29 Silver Street, ENFIELD",EN1 3EF,532892,196668.0,51.653095,-0.080408,Enfield
+44364,440524,RAINBOW CASINO,"61 Summer Street, Aberdeen",AB10 1SJ,393473,806106.0,57.145803,-2.109502,Aberdeen City
+31270,314641,Manor House Inn,"39 St Marys Road, Croyde, Devon",EX33 1PG,244742,139211.0,51.131081,-4.220311,North Devon
+14051,152192,The Daleside Arms,"Front Street, Croxdale, Durham",DH6 5HY,426592,536692.0,54.724522,-1.588653,County Durham
+14228,152568,Three Tuns Hotel,"99 Collingwood Street, Coundon, Bishop Auckland",DL14 8LL,424185,529541.0,54.660381,-1.626598,County Durham
+2368,21916,The Talbot Inn,"5 North Street, Stilton, Peterborough",PE7 3RP,516239,289514.0,52.491164,-0.289415,Huntingdonshire
+33733,337440,Masons Arms,"East Street, Warminster, Wiltshire",BA12 9BN,387653,144988.0,51.203958,-2.178109,Wiltshire
+9441,90536,Jolly Woodman,"9 Chancery Lane, Beckenham",BR3 6NR,537900,169371.0,51.406599,-0.018741,Bromley
+17622,184742,Cleator Cricket Club,"Church Street, Cleator, Cumbria",CA23 3DD,301277,513621.0,54.50825,-3.526241,Copeland
+17832,186076,The Stag Inn,"Dufton, Appleby-In-Westmorland",CA16 6DB,368913,525127.0,54.620323,-2.482943,Eden
+22361,228283,Old Fisherman,"Mill Road, Shabbington, Buckinghamshire",HP18 9HJ,466466,206147.0,51.750085,-1.038591,Aylesbury Vale
+29989,303778,Kings Arms Hotel,"55 Fore Street, Tregony, Truro, Cornwall",TR2 5RW,192598,44997.0,50.268435,-4.911689,Cornwall
+48272,486472,Ye Olde Vigour Hotel,"Ye Olde Vigour Hotel, High Street, Cemaes Bay, Isle Of Anglesey",LL67 0HH,237126,393405.0,53.412251,-4.45197,Isle of Anglesey
+25778,261882,Everest Nepalese Restaurant And Bar,"Donnington Arms, 147 - 151 Howard Street, Oxford, Oxfordshire",OX4 3AZ,453191,204978.0,51.74099,-1.231046,Oxford
+27413,278559,Conqueror Alehouse,"4C Grange Road, Ramsgate, Kent",CT11 9LR,637411,164683.0,51.33165,1.406694,Thanet
+14235,152618,Travellers Rest,"Front Street, Witton Gilbert, Durham",DH7 6TQ,423113,545723.0,54.805848,-1.641952,County Durham
+43584,416172,Darnall Horticulture,"647-651 Staniforth Road, Sheffield",S9 4RD,439058,387928.0,53.386757,-1.414206,Sheffield
+16968,178324,The Currock,"The Currock Inn, 41-43 Boundary Road, Carlisle",CA2 4HH,340548,554472.0,54.88145,-2.92818,Carlisle
+38207,373276,Farmer John's,"Aldridge Road, Streetly, Walsall, West Midlands",B74 2DX,407271,297088.0,52.571567,-1.894135,Walsall
+42380,406007,Richmond Hill Community Club,"Railway Street, Richmond Hill, Leeds",LS9 8HB,431064,433484.0,53.796742,-1.529888,Leeds
+47457,477106,The Eriskyne,"Unit 1, Bargarran Square, Erskine, Renfrewshire",PA8 6BS,246003,671112.0,55.908385,-4.465137,Renfrewshire
+8687,81353,Greens Norton British Legion Club,"10 School Lane, Greens Norton, Northamptonshire",NN12 8BU,466867,249814.0,52.14258,-1.024304,South Northamptonshire
+30385,306422,Victoria Inn,"The Victoria Inn, Chyvelah Road, Threemilestone, Truro",TR3 6BY,178200,45021.0,50.263416,-5.113435,Cornwall
+37457,367604,Pride Of The Moorlands,"THE PRIDE OF THE MOORLANDS JUNCTION ROAD, LEEK",ST13 5QP,398124,355671.0,53.098237,-2.029469,Staffordshire Moorlands
+681,6472,Brickmakers Arms,"The Brambles, 218 Holt Road, Horsford",NR10 3ER,618974,316757.0,52.704159,1.239695,Broadland
+46654,468159,Woodshed Bar,"Hilton Coylumbridge, Aviemore, Highland",PH22 1QN,290964,810782.0,57.174873,-3.805071,Highland
+4829,47306,The Snipe,Alfreton Road,NG17 1JE,447889,357801.0,53.115248,-1.285977,Ashfield
+24600,249728,Purbrook Cricket Club,"Cricket Club, Purbrook Heath Road, Purbrook, Waterlooville",PO7 5RU,466861,107949.0,50.867189,-1.051247,Winchester
+10227,99131,Basrah Lounge,"165 Dukes Road, Acton",W3 0SL,519207,182068.0,51.524963,-0.283079,Ealing
+31199,313870,The Silverton Inn,5 Fore Street Silverton Exeter Devon,EX5 4HP,295589,102943.0,50.81659,-3.483499,Mid Devon
+33678,336652,Golden Swan,"Wilcot, Pewsey, Wiltshire",SN9 5NN,414268,161202.0,51.34972,-1.79651,Wiltshire
+25924,263245,Electric Circus,"108 Commercial Road, Portsmouth",PO1 1EJ,464179,100362.0,50.799275,-1.09068,Portsmouth
+25450,259171,Stony Stratford Conservative Club,"77 High Street, Stony Stratford, Milton Keynes",MK11 1AY,478651,240518.0,52.057481,-0.854285,Milton Keynes
+13584,148634,Three Crowns,"53 Archer Street, Darlington",DL3 6LU,428744,514878.0,54.528365,-1.557374,Darlington
+14256,152795,Wheatsheaf Inn,"Durham Road, Chester-Le-Street",DH3 2AB,427315,553576.0,54.876197,-1.575844,County Durham
+1799,16969,Orchid 54 Winebar,"54 Sun Street, Waltham Abbey, Essex",EN9 1EJ,538362,200574.0,51.686883,0.000157,Epping Forest
+41015,394993,The Dawnay Arms,"Newton On Ouse, North Yorkshire",YO30 2BR,451061,460071.0,54.034115,-1.221902,Hambleton
+3975,39258,Framlingham Conservative Club,"10 Church Street, Framlingham, Suffolk",IP13 9BH,628589,263497.0,52.222207,1.345298,Suffolk Coastal
+32600,326250,Nailsworth & District Comrades Club,"Old Bristol Road, Nailsworth, Stroud, Gloucestershire",GL6 0JE,384899,199370.0,51.692875,-2.219868,Stroud
+11640,118985,Singer,"Singer, 1-5 City Road, Islington, London",EC1Y 1AG,532828,182155.0,51.5227,-0.086819,Islington
+30566,307698,Budleigh Salterton Football Club,"Greenway Lane, Budleigh Salterton",EX9 6SG,306052,82689.0,50.636296,-3.329854,East Devon
+10582,104105,Fox & Hounds,"57 Plumstead Common Road, London",SE18 3AS,543815,177960.0,51.482318,0.069731,Greenwich
+23457,237546,White Horse Club & Sports Bar,JB Complex White Horse Caravan Park Paddock Lane Selsey Chichester West Sussex,PO20 9EJ,485319,93883.0,50.738302,-0.792272,Chichester
+6800,63900,Prince of Wales,"Prince Of Wales, Dalkeith Place, Kettering, Northamptonshire",NN16 0BS,486767,278694.0,52.399402,-0.726161,Kettering
+15820,166684,The Norton Tavern,"Station Road, Norton",TS20 1PE,444073,522656.0,54.59717,-1.31937,Stockton-on-Tees
+10632,105111,The Bull Hotel,"151 Shooters Hill, London",SE18 3HP,543913,176456.0,51.468779,0.070529,Greenwich
+29739,301238,Moo Moo Clubrooms,"Moo Moo, Regent Street, Cheltenham, Gloucestershire",GL50 1HE,394912,222321.0,51.89941,-2.075352,Cheltenham
+24588,249481,Havant Ex-Servicemen Club,"Ex Servicemen and British Legion Club, Brockhampton Lane, Havant",PO9 1LZ,471244,106167.0,50.850635,-0.989319,Havant
+36034,357403,WESTBURY TAVERN,"The Westbury Tavern, Westbury Road, Newcastle Under Lyme, Staffordshire",ST5 4JW,384987,342996.0,52.98409,-2.225065,Newcastle-under-Lyme
+32627,326428,Slimbridge Football Club,"Wisloe Road, Cambridge, Gloucester, Gloucestershire",GL2 7AF,374644,202719.0,51.722614,-2.368472,Stroud
+26396,268036,New Haw Club & Institute,"New Haw Club And Institute, 48 Woodham Lane, Addlestone",KT15 3NA,505371,162944.0,51.355809,-0.488126,Runnymede
+49647,499499,Meirioneth Yacht Club,"The Quay, Barmouth, Gwynedd",LL42 1HB,261477,315457.0,52.718979,-4.052309,Gwynedd
+3272,30972,The Stanley,"33 Magdalen Road, Norwich",NR3 4LG,623150,309899.0,52.640906,1.296769,Norwich
+37678,369524,The Furlong Tavern,"Furlong Road, Tunstall, Stoke-On-Trent",ST6 5UP,386495,351974.0,53.064843,-2.202983,Stoke-on-Trent
+25879,262721,The White House,"38 Abingdon Road, Oxford, Oxfordshire",OX1 4PD,451451,205272.0,51.743795,-1.256201,Oxford
+18228,189660,Kings Arms,"248 Marine Road Central, Morecambe, Lancashire",LA4 4BJ,343349,464430.0,54.072669,-2.867234,Lancaster
+15696,165399,The Wouldhave,"40-42 Mile End Road, South Shields, Tyne & Wear",NE33 1TA,436344,567420.0,55.000033,-1.433394,South Tyneside
+3501,34100,White Lion,"96 High Street, Sawston, Cambridgeshire",CB22 3HJ,548592,249053.0,52.11982,0.168918,South Cambridgeshire
+27540,279575,Wig and Pen,"Wig And Pen, 10 Market Place, Margate, Kent",CT9 1EN,635417,171028.0,51.38943,1.38232,Thanet
+19250,198395,Blue Bell Hotel,"Blue Bell, 11-13 Market Street, Shaw, Oldham",OL2 8NR,393901,408930.0,53.576931,-2.093582,Oldham
